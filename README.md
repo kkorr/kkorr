@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Konstantin Kornilov. I'm a software developer from Russia. I currently work on client/server Java Developement.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringSecurity-informational?style=flat&logo=Spring-Security&logoColor=white&color=2bbc8a)
