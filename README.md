@@ -43,7 +43,8 @@ My name is Konstantin Kornilov. I'm a software developer from Russia. I currentl
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkorr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Konstantin's GitHub Stats" />
 </a>
 <br><br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=kkorr&label=Profile%20views&color=2bbc8a&style=flat" alt="SoberGrim"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kkorr&label=Profile%20views&color=2bbc8a&style=flat" alt="kkorr"/></p>
 
-
+<!--
 ![](https://komarev.com/ghpvc/?username=kkorr&label=PROFILE+VIEWS)
+-->
