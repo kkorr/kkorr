@@ -37,6 +37,13 @@ My name is Konstantin Kornilov. I'm a software developer from Russia. I currentl
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/kkorr/kkorr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkorr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Konstantin's GitHub Stats" />
+</a>
+<br><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kkorr&label=Profile%20views&color=2bbc8a&style=flat" alt="SoberGrim"/></p>
 
 
 ![](https://komarev.com/ghpvc/?username=kkorr&label=PROFILE+VIEWS)
