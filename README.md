@@ -35,7 +35,7 @@ My name is Konstantin Kornilov. I'm a software developer from Russia. I currentl
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=java&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=blue)
 
