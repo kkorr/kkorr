@@ -40,14 +40,12 @@ My name is Konstantin Kornilov. I'm a software developer from Russia. I currentl
 ![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=blue)
-
-
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=ApacheGradle&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Tomcat-informational?style=flat&logo=ApacheTomcat&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
 
