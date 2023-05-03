@@ -24,26 +24,20 @@ My name is Konstantin Kornilov. I'm a software developer from Russia. I currentl
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-SpringData-informational?style=flat&logo=Spring-Data&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=java&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=DBeaver&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=blue)
 
