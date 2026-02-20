@@ -49,6 +49,7 @@ My name is Konstantin Kornilov. I'm a software developer from Russia. I currentl
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blue)
 
 ## &#x1f4c8; GitHub Stats
 
